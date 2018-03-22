@@ -11,7 +11,8 @@
         "README.md",
         "MicroBit.h",
         "irc.cpp",
-        "main.ts"
+        "main.ts",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
