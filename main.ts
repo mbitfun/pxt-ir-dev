@@ -5,6 +5,7 @@ namespace IRC {
   //% icon="\uf1ec"
   //% shim=IRC::init
   export function init(): void {
+    console.log("test")
     return;
   }
 }
