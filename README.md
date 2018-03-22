@@ -1,1 +1,13 @@
-# pxt-ir-dev
+# ir-dev
+
+ir control
+
+## License
+
+MIT
+
+## Supported targets
+
+* for PXT/microbit
+(The metadata above is needed for package search.)
+
