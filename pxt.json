@@ -9,6 +9,8 @@
     },
     "files": [
         "README.md",
+        "MicroBit.h",
+        "irc.cpp",
         "main.ts"
     ],
     "testFiles": [
