@@ -11,8 +11,7 @@
         "README.md",
         "MicroBit.h",
         "irc.cpp",
-        "irc.ts",
-        "shims.d.ts"
+        "irc.ts"
     ],
     "testFiles": [
         "test.ts"
