@@ -1,6 +1,6 @@
 {
     "name": "ir-dev",
-    "version": "0.1.26",
+    "version": "0.1.25",
     "description": "ir control",
     "license": "MIT",
     "dependencies": {
@@ -11,7 +11,8 @@
         "README.md",
         "MicroBit.h",
         "irc.cpp",
-        "irc.ts"
+        "irc.ts",
+        "shims.d.ts"
     ],
     "testFiles": [
         "test.ts"
