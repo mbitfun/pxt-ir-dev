@@ -1,6 +1,6 @@
 {
     "name": "ir-dev",
-    "version": "0.1.22",
+    "version": "0.1.23",
     "description": "ir control",
     "license": "MIT",
     "dependencies": {
