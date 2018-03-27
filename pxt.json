@@ -12,7 +12,6 @@
         "MicroBit.h",
         "irc.cpp",
         "irc.ts",
-        "enums.d.ts",
         "shims.d.ts"
     ],
     "testFiles": [
