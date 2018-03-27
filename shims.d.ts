@@ -6,5 +6,5 @@ namespace IRC {
   //% blockId=init2
   //% icon="\uf1ec"
   //% shim=IRC::init
-  export function test2(): void;
+  function test2(): void;
 }
